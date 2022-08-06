@@ -11,3 +11,16 @@
 
 ➤ *You can find the course [here](https://fullstackopen.com/en/)*.
 
+# 2. The Odin Project
+
+### Technologies it teaches you are as follows:
+
+◻ HTML 
+◻ CSS 
+◻ JavaScript 
+◻ Git 
+◻ databases 
+◻ Ruby/Ruby on Rails 
+◻ Node.js
+
+➤ *You can find the course [here](https://www.theodinproject.com/)*.
