@@ -24,3 +24,11 @@
 ◻ Node.js
 
 ➤ *You can find the course [here](https://www.theodinproject.com/)*.
+
+# 3. Git - Book
+
+### The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+
+➤ *You can find the book [here](https://git-scm.com/book/en/v2)*.
+
+
