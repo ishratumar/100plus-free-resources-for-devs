@@ -1,4 +1,4 @@
-# Helpful-Resources-for-Developers
+# 100+ Free Helpful Resources for Developers
 # 1. Free Full Stack Open Course 
 
 ### Technologies it teaches you are as follows:
@@ -325,8 +325,11 @@ For those who want to:
 ◻ Convertkit
 
 # 16. DESIGN inspiration
+
 ◻ Dribble
+
 ◻ Behance
+
 ◻ Awwwards
  
  # 17. Graphic design 
@@ -373,3 +376,5 @@ For those who want to:
 
 ✔ Follow me on [Twitter](@ishratUmar18) for more helpful resources.
 
+# Give A Star ⭐
+Please consider staring this repo on top right of the page if you find it useful!
