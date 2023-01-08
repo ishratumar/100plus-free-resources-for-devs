@@ -59,162 +59,317 @@ For those who want to:
 
 ◻ TailwindCSS (https://tailwindcss.com/)
 
-◻ NextJs()
+◻ NextJs(https://nextjs.org/docs/) / (https://beta.nextjs.org/docs)
 
-◻ Nodejs
+◻ TypeScript (https://www.typescriptlang.org/)
 
-◻ PHP ( )
+◻ Nodejs(https://nodejs.org/en/docs/)
 
-# Forums
-Codeproject
-Webmatrices
-Codeguru
-DaniWeb
-The Coding Forums
+◻ MangoDB(https://www.mongodb.com/docs/)
 
-# Websites
-Freecodecamp
-Udemy
-Coursera
-Codecademy
-Khan Academy
-Scrimba
-Stackoverflow
-GeeksforGeeks
-The Odin Project
-Edx
-Free Full Stack Open Course
+◻ MySql((https://dev.mysql.com/doc/)
 
-# YouTube Channels
- Traversymedia
- Webdevsimplified
-JavaScript Mastry
- freeCodeCamp
-The Net Ninja
-Google Chrome Developers
-Edureka
-Dev Ed
-Neil Rowe
-Keep coding
-Academind
-LearnCod .academy
-Derek Banas
-Thenewboston
-JSConf
-YT Channels to learn UX design
-thefuture
-AJ&SMART
-femke .design
-Become a legendary designer
-Think Less, Create more
-Vaexperience
-Jesse Showalter
+◻ Python (https://docs.python.org/3/)
+
+◻ PHP (https://www.php.net/docs.php)
+
+# 6. Forums
+
+◻ Codeproject
+
+◻ Webmatrices
+
+◻ Codeguru
+
+◻ DaniWeb
+
+◻ The Coding Forums
+
+# 7. Websites
+
+◻ Freecodecamp
+
+◻ Udemy
+
+◻ Coursera
+
+◻ Codecademy
+
+◻ Khan Academy
+
+◻ Scrimba
+
+◻ Stackoverflow
+
+◻ GeeksforGeeks
+
+◻ Edx
+
+# 8. YouTube Channels
+
+◻ Traversymedia
+
+◻ Webdevsimplified
+
+◻ JavaScript Mastry
+
+◻ FreeCodeCamp
+
+◻ The Net Ninja
+
+◻ Google Chrome Developers
+
+◻ Edureka
+
+◻ Dev Ed
+
+◻ Neil Rowe
+
+◻ Keep coding
+
+◻ Academind
+
+◻ LearnCod .academy
+
+◻ Derek Banas
+
+◻ Thenewboston
+
+◻ JSConf
+
+◻ YT Channels to learn UX design
+
+◻ Thefuture
+
+◻ AJ&SMART
+
+◻ femke .design
+
+◻ Become a legendary designer
+
+◻ Think Less, Create more
+
+◻ Vaexperience
+
+◻ Jesse Showalter
 
 
-# Websites to Practice
-thefuture
-AJ&SMART
-femke .design
-Become a legendary designer
-Think Less, Create more
-Vaexperience
-Jesse Showalter
-Learning by playing Games:
-Devchallenges
-Hackerrank
-Leetcode
-Codechef
-JSchallenger
-Coderbyte
-Codewars
-Frontend Practice
-Leetcode
+# 9. Websites to Practice
+
+◻ thefuture
+
+◻ AJ&SMART
+
+◻ femke .design
+
+◻ Become a legendary designer
+
+◻ Think Less, Create more
+
+◻ Vaexperience
+
+◻ Jesse Showalter
+
+◻ Learning by playing Games:
+
+◻ Devchallenges
+
+◻ Hackerrank
+
+◻ Leetcode
+
+◻ Codechef
+
+◻ JSchallenger
+
+◻ Coderbyte
+
+◻ Codewars
+
+◻ Frontend Practice
+
+◻ Leetcode
 
 # Code Editors:
-Visual Studio Code
-Codepen
-JSFiddle
-Replit
 
-# Version Control Systems
-GitHub
-Gitlab
-Bitbucket
+◻ Visual Studio Code
+
+◻ Codepen
+
+◻ JSFiddle
+
+◻ Replit
+
+# 10 Version Control Systems
+
+◻ GitHub
+
+◻ Gitlab
+
+◻ Bitbucket
 
 # VS Code Extensions
-JavaScript (ES6) Code Snippets
-ESLint
-GitLens
-Debugger for Chrome
-JavaScript Booster
-Tabnine / GitHub Copilot
-Live Share
-Bracket Pair Colorizer 2
-Live Server
-Prettier
-CodeSnap
 
-# Android Applications
-DevBytes
-Sololearn
-Mimo
-DataCamp
-Learn Web Development
-Enki
-Programming Hub
-Grasshopper
-LinkedIn Learning
+◻ JavaScript (ES6) Code Snippets
 
-# Stock Images
-pixabay
-pexels
-unsplash
-depositphotos
-burst.shopify
-istockphoto
-picography
-freepik
-freerangestock
-foter
+◻ ESLint
 
-# Podcasts
-JavaScript Jabber
-Full Stack Radio
-Front End Happy Hour
-Shop Talk
-CodePen Radio
-Codenewbie
-Tech Jr Podcast
-Layout
-Commit Your Code
-The Laracasts Snippet
+◻ GitLens
 
-# Chrome Extensions
-React Developer Tools
-JSON Viewer
-ColorZilla
-Page Ruler
-Check My Links
-Web Developer Checklist
-Checkbot
-Web Developer
- EditThisCookie
-Lightshot
+◻ Debugger for Chrome
 
-# Other useful resources
-CS-50
-ICONFINDER
-BGjar
-Animista
-Can I Use
-CSS Button Generator
-Google Fonts
-1001 Fonts
-DaFont
-Undesign
-Neumorphism
-Get Waves
-Front-End Checklist
+◻ JavaScript Booster
 
-✔ Follow @ishratUmar18 on Twitter for more helpful resources.
+◻ Tabnine / GitHub Copilot
+
+◻ Live Share
+
+◻ Bracket Pair Colorizer 2
+
+◻ Live Server
+
+◻ Prettier
+
+◻ CodeSnap
+
+# 11. Android Applications
+
+◻ DevBytes
+
+◻ Sololearn
+
+◻ Mimo
+
+◻ DataCamp
+
+◻ Learn Web Development
+
+◻ Enki
+
+◻ Programming Hub
+
+◻ Grasshopper
+
+◻ LinkedIn Learning
+
+# 12. Stock Images
+
+◻ pixabay
+
+◻ pexels
+
+◻ unsplash
+
+◻ depositphotos
+
+◻ burst.shopify
+
+◻ istockphoto
+
+◻ picography
+
+◻ freepik
+
+◻ freerangestock
+
+◻ foter
+
+# 13. Podcasts
+
+◻ JavaScript Jabber
+
+◻ Full Stack Radio
+
+◻ Front End Happy Hour
+
+◻ Shop Talk
+
+◻ CodePen Radio
+
+◻ Codenewbie
+
+◻ Tech Jr Podcast
+
+◻ Layout
+
+◻ Commit Your Code
+
+◻ The Laracasts Snippet
+
+# 14. Chrome Extensions
+
+◻ React Developer Tools
+
+◻ JSON Viewer
+
+◻ ColorZilla
+
+◻ Page Ruler
+
+◻ Check My Links
+
+◻ Web Developer Checklist
+
+◻ Checkbot
+
+◻ Web Developer
+
+◻ EditThisCookie
+
+◻ Lightshot
+
+# 15. Email services
+
+◻ Mailchimp
+
+◻ Convertkit
+
+# 16. DESIGN inspiration
+◻ Dribble
+◻ Behance
+◻ Awwwards
+ 
+ # 17. Graphic design 
+ 
+◻ Figma
+
+◻ Canva
+
+# 18. Blogging websites
+
+◻ Medium
+
+◻ Hashnode 
+
+◻ Dev.to
+
+# 19. Other useful resources
+
+◻ CS-50
+
+◻ ICONFINDER
+
+◻ BGjar
+
+◻ Animista
+
+◻ Can I Use
+
+◻ CSS Button Generator
+
+◻ Google Fonts
+
+◻ 1001 Fonts
+
+◻ DaFont
+
+◻ Undesign
+
+◻ Neumorphism
+
+◻ Get Waves
+
+◻Front-End Checklist
+
+✔ Follow me on [Twitter](@ishratUmar18) for more helpful resources.
 
